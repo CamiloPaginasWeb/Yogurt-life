@@ -143,14 +143,21 @@ body {
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
+    margin: 50px;
 }
 
 .yogurt-1{
     padding: 0 25px;
 }
 
-.yogurt-1 img{
+.yogurt-1 p{
+    padding: 0 25px;
+    text-align:justify;
+}
+
+.yogurt-1  a img{
     width: 200px;
+    height: 200px;
 }
 
 .yogurt-img{
@@ -191,7 +198,7 @@ body {
 
 .services-content p{
     font-size: 26px;
-    color: #d8d9da;
+    color: #4d4949;
     margin-bottom: 50px;
     padding: 0 100px;
 }
@@ -202,18 +209,21 @@ body {
     margin-bottom: 50px;
 }
 
+
+
 .services-1{
     padding: 0 100px;
 }
 
 .services-1 a img{
-    width: 150px;
+    width: 200px;
+    height: 200px;
     margin-bottom: 15px;
 }
 
 .services-1 h3{
-    color: #eaccb3;
-    font-size: 18px;
+    color:#323337;
+    font-size: 20px;
 }
 
 .general{
